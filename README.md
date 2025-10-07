@@ -1,3 +1,6 @@
+![Policy Compliance Gap Analysis](ProjectNo.3.png)
+
+
 # 🧾 Policy Compliance Gap Analysis – Risk Visualization Dashboard
 
 ## 📘 Description
